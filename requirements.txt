@@ -1,7 +1,7 @@
 apparmor==2.12.3
 appdirs==1.4.3
 cmdln==2.0.0
-configobj==5.0.6
+configobj==5.0.9
 cupshelpers==1.0
 decorator==4.2.1
 isc==2.0
